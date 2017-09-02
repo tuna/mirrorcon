@@ -70,7 +70,7 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "120", specialCharacter: "+", info: "open source softwares", detail: "delivered fast and stably"}
- - {count: "10", specialCharacter: "+ TB", info: "throughput", detail: "from and to all across China"}
+ - {count: "10", specialCharacter: "T", info: "bytes throughput", detail: "from and to all across China per day"}
  - {count: "4", specialCharacter: "", info: "days", detail: "of interesting events"}
  - {count: "8", specialCharacter: "+", info: "talks", detail: "plus entertainment sessions"}
 
