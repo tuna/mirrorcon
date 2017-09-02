@@ -71,7 +71,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "120", specialCharacter: "+", info: "open source softwares", detail: "delivered fast and stably"}
  - {count: "48", specialCharacter: "+", info: "users", detail: "from all across China"}
- - {count: "20", specialCharacter: "G+", info: "bytes", detail: "served every second"}
+ - {count: "4", specialCharacter: "", info: "days", detail: "of interesting events"}
  - {count: "8", specialCharacter: "+", info: "talks", detail: "plus entertainment sessions"}
 
 # Latest News Block
