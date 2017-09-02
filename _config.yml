@@ -120,8 +120,8 @@ subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b05
 subscribeInfo: "Registration will be open around middle of September. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsTitle: "Get Tickets"
+ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included. You can get free tickets via donation."
 ticketsOffers:
  -
   name: "Last Chance"
@@ -130,7 +130,7 @@ ticketsOffers:
   ticketsNumber: "100"
   buyButtonLink: "https://goo.gl/forms/sq0pQ1iW8senOBNj2"
   buyButtonText: "Donate Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  ticketContentList: ["Get 1 free ticket!", "Special Thanks", "Full price"]
   validFrom: "2017-09-21T00:00"
   validThrough: "2017-10-01T23:59"
   disabled: true
@@ -143,7 +143,7 @@ ticketsOffers:
   ribbon: "-20%"
   buyButtonLink: "https://goo.gl/forms/1kZWBinZ2DFE35pr2"
   buyButtonText: "Donate Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  ticketContentList: ["Get 1 free ticket!", "Special Thanks", "Discount"]
   validFrom: "2017-09-01T10:00"
   validThrough: "2017-09-20T23:59"
  -
@@ -154,8 +154,8 @@ ticketsOffers:
   ticketsNumber: "50"
   buyButtonLink: "https://goo.gl/forms/HuDGZS0vUFxUhns03"
   buyButtonText: "Apply Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID you may not be allowed in"
+  ticketContentList: ["Students are welcomed", "Access to all sections", "Limited seats"]
   validFrom: "2017-09-01T10:00"
   validThrough: "2017-10-01T23:59"
 
