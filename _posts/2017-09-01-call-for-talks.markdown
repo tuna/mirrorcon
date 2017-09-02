@@ -9,7 +9,7 @@ MirrorCon 2017 will be held from Oct 1 to Oct 4 in Shenzhen, China and we are lo
 #### Themes and topics – what do we expect?
 We are expecting a wide range of topics. Whether your proposed talk is about server maintenance, open source culture, LUG management, etc., it will be warmly welcomed.
 
-#### Please submit your proposals [here](http://bit.ly/dfua-c4p).
+#### Please submit your proposals [here](https://goo.gl/forms/8XHC89QzZbJWkcfF3).
 __Deadline__ is September 20, 2017
 
 __Please note:__ There is no guarantee that a submission will be put onto the conference agenda!<br/>
