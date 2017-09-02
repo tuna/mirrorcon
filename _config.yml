@@ -113,12 +113,6 @@ venueSmallImage3: "venue_3.jpg"
 venueTitle: "TBA at SUSTech"
 venueFeatures: ["Probably 3 huge cinema screens", "Possibly Doulby Digital Surround EX audio system", "Likely located directly in the city center"]
 
-# Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
-
 # Partners Block
 organizersTitle: "Organizers"
 partnersTitle: "Partners"
@@ -128,49 +122,47 @@ partnersC4sponsorsButton: "Become a sponsor"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeInfo: "Registration will be open around middle of September. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
- -
   name: "Last Chance"
   price: "450"
-  priceCurrency: "UAH"
+  priceCurrency: "CNY"
   ticketsNumber: "100"
-  ribbon: "-20%"
-  featured: true
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
+  validFrom: "2017-09-21T00:00"
+  validThrough: "2017-10-01T23:59"
   disabled: true
  -
+  name: "Early Bird"
+  price: "350"
+  featured: true
+  priceCurrency: "CNY"
+  ticketsNumber: "150"
+  ribbon: "-20%"
+  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2017-09-01T10:00"
+  validThrough: "2017-09-20T23:59"
+ -
   name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
+  price: "1"
+  ribbon: "-99%"
+  priceCurrency: "CNY"
   ticketsNumber: "50"
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
+  validFrom: "2017-09-01T10:00"
+  validThrough: "2017-10-01T23:59"
 
 # Footer
 socialLinks:
