@@ -74,10 +74,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "120", specialCharacter: "+", info: "open source softwares", detail: "delivered fast and stably"}
+ - {count: "48", specialCharacter: "+", info: "users", detail: "from all across China"}
+ - {count: "20", specialCharacter: "G+", info: "bytes", detail: "served every second"}
+ - {count: "8", specialCharacter: "+", info: "talks", detail: "plus entertainment sessions"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
