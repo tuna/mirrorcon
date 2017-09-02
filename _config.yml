@@ -56,20 +56,20 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "MirrorCon <typeout> 2017"
+heroTitle: "MirrorCon 2017<typeout>"
 eventDate: "Early October, 2017"
-typeoutTextValues: '"", "Shenzhen", "SUSTech", "Guangdong", "China"'
+typeoutTextValues: '"", ", Shenzhen", ", SUSTech", ", Guangdong", ", China"'
 typeoutFallback: "Shenzhen"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About MirrorCon"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Talks", image: "conference.jpg", text: "Learn about the underlying technologies of a successful mirror site! Awesome speakers and lots of fun!" }
+ - {title: "Visits", image: "workshop.jpg", text: "Zero-distance contact with world-famous technology companies, top universities and fascinating cities." }
+ - {title: "Party", image: "hackathon.jpg", text: "Revealing the secrets of a cohecive and efficient team: drink, BBQ and more!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
