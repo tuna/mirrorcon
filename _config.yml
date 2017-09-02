@@ -128,8 +128,8 @@ ticketsOffers:
   price: "450"
   priceCurrency: "CNY"
   ticketsNumber: "100"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
+  buyButtonLink: "https://goo.gl/forms/sq0pQ1iW8senOBNj2"
+  buyButtonText: "Donate Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2017-09-21T00:00"
   validThrough: "2017-10-01T23:59"
@@ -141,8 +141,8 @@ ticketsOffers:
   priceCurrency: "CNY"
   ticketsNumber: "150"
   ribbon: "-20%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
+  buyButtonLink: "https://goo.gl/forms/1kZWBinZ2DFE35pr2"
+  buyButtonText: "Donate Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2017-09-01T10:00"
   validThrough: "2017-09-20T23:59"
@@ -152,8 +152,8 @@ ticketsOffers:
   ribbon: "-99%"
   priceCurrency: "CNY"
   ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
+  buyButtonLink: "https://goo.gl/forms/HuDGZS0vUFxUhns03"
+  buyButtonText: "Apply Now"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2017-09-01T10:00"
