@@ -56,7 +56,7 @@ eventDate: "Early October, 2017"
 typeoutTextValues: '"", ", Shenzhen", ", SUSTech", ", Guangdong", ", China"'
 typeoutFallback: "Shenzhen"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://goo.gl/forms/8XHC89QzZbJWkcfF3", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
